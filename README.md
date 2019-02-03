@@ -1,4 +1,4 @@
-= WordPress Disclaimer Multisite Multilingual
+WordPress Disclaimer Multisite Multilingual
 
 This code will add a disclaimer message to the bottom of WordPress posts.  It’s designed for Multisite WordPress installations where you will need a different disclaimer message on each site. Such as alternative language translations for sites on a network.
 
